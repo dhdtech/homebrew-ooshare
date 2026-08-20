@@ -7,12 +7,12 @@ class Ooshare < Formula
   end
   on_macos do
     on_arm do
-      url "https://github.com/dhdtech/ooshare.io/releases/download/v1.0.1/ooshare_1.0.1_darwin_arm64.tar.gz"
-      sha256 "b6086c96fc40f13fad59b81278f1484ca5e6cc49cbd35c4d1de83237105ea770"
+      url "https://github.com/dhdtech/ooshare.io/releases/download/v1.0.2/ooshare_1.0.2_darwin_arm64.tar.gz"
+      sha256 "7a74c9c8a50e6e11abd08709157d06b841cd7b4dd36c66cabbbf593af0c1d395"
     end
     on_intel do
-      url "https://github.com/dhdtech/ooshare.io/releases/download/v1.0.1/ooshare_1.0.1_darwin_amd64.tar.gz"
-      sha256 "baa3606a9aa0aca2621113c9a4db6a113eb8850ee5d7aac09d33689a9cee3384"
+      url "https://github.com/dhdtech/ooshare.io/releases/download/v1.0.2/ooshare_1.0.2_darwin_amd64.tar.gz"
+      sha256 "f082314b29af17031c7e45aa34ada31c3efcfb3d6b5c62120acdbd89678b8d89"
     end
   end
 end
